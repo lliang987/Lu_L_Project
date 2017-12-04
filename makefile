@@ -1,4 +1,4 @@
-README.md:
+README.md: guessinggame.sh
 	echo "## Lu.L Peer-graded Assignment" > README.md
 	echo  >> README.md
 	TZ="America/New_York" date >> README.md

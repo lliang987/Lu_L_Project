@@ -1,7 +1,7 @@
 ## Lu.L Peer-graded Assignment
 
-Sun Dec  3 20:39:49 EST 2017
+Sun Dec  3 22:01:31 EST 2017
 
 The guessinggame.sh script contains 
-29
+36
  rows of line
